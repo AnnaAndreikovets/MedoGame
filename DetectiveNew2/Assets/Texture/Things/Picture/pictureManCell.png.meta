@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: d4087732e275ee84bb8bd4a2db547ef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4850232585016464977
+    second: pictureManCell_0
+  - first:
+      213: -2242159545327620234
+    second: pictureManCell_1
+  - first:
+      213: 3351695230650982324
+    second: pictureManCell_2
+  - first:
+      213: 8695022138457320708
+    second: pictureManCell_3
+  - first:
+      213: 1034028037468827508
+    second: pictureManCell_4
+  - first:
+      213: 4429722579112975727
+    second: pictureManCell_5
+  - first:
+      213: -257307639600929680
+    second: pictureManCell_6
+  - first:
+      213: -8896262187034925800
+    second: pictureManCell_7
+  - first:
+      213: -3269525206951461180
+    second: pictureManCell_8
+  - first:
+      213: -4120504979627093231
+    second: pictureManCell_9
+  - first:
+      213: -7512338227634180645
+    second: pictureManCell_10
+  - first:
+      213: -4588788824288449643
+    second: pictureManCell_11
+  - first:
+      213: 4768181381623972256
+    second: pictureManCell_12
+  - first:
+      213: -6453461938151932568
+    second: pictureManCell_13
+  - first:
+      213: -2934752755136085871
+    second: pictureManCell_14
+  - first:
+      213: 5770903459740626668
+    second: pictureManCell_15
+  - first:
+      213: -4758506277330601506
+    second: pictureManCell_16
+  - first:
+      213: 5718281896421357067
+    second: pictureManCell_17
+  - first:
+      213: -1776273053438554805
+    second: pictureManCell_18
+  - first:
+      213: -278219288269415421
+    second: pictureManCell_19
+  - first:
+      213: 6558938721178023166
+    second: pictureManCell_20
+  - first:
+      213: 5555077682514504999
+    second: pictureManCell_21
+  - first:
+      213: -3739507962533446836
+    second: pictureManCell_22
+  - first:
+      213: -2196635302485596275
+    second: pictureManCell_23
+  - first:
+      213: -3089352698642142086
+    second: pictureManCell_24
+  - first:
+      213: 1698763497923358813
+    second: pictureManCell_25
+  - first:
+      213: 3200029508647529499
+    second: pictureManCell_26
+  - first:
+      213: -5221307549608332142
+    second: pictureManCell_27
+  - first:
+      213: -4511356392696574374
+    second: pictureManCell_28
+  - first:
+      213: -355621239491878295
+    second: pictureManCell_29
+  - first:
+      213: 1511731205494603166
+    second: pictureManCell_30
+  - first:
+      213: -5935840506206795573
+    second: pictureManCell_31
+  - first:
+      213: -4792211210616815414
+    second: pictureManCell_32
+  - first:
+      213: -4400885622831007912
+    second: pictureManCell_33
+  - first:
+      213: -5638374172004976447
+    second: pictureManCell_34
+  - first:
+      213: -4290711325281198475
+    second: pictureManCell_35
+  - first:
+      213: 3376658521043319896
+    second: pictureManCell_36
+  - first:
+      213: -1928315618618094869
+    second: pictureManCell_37
+  - first:
+      213: 6403168187710336786
+    second: pictureManCell_38
+  - first:
+      213: 780037324567543699
+    second: pictureManCell_39
+  - first:
+      213: -4851557974778290517
+    second: pictureManCell_40
+  - first:
+      213: 141752298922573747
+    second: pictureManCell_41
+  - first:
+      213: 5136416912429555500
+    second: pictureManCell_42
+  - first:
+      213: 4922561443110013090
+    second: pictureManCell_43
+  - first:
+      213: 611016829479248582
+    second: pictureManCell_44
+  - first:
+      213: 8985294486745096398
+    second: pictureManCell_45
+  - first:
+      213: -5734729432165184035
+    second: pictureManCell_46
+  - first:
+      213: 7795219386587901639
+    second: pictureManCell_47
+  - first:
+      213: -3653207223519574464
+    second: pictureManCell_48
+  - first:
+      213: -982710766653657489
+    second: pictureManCell_49
+  - first:
+      213: -9010489433567694442
+    second: pictureManCell_50
+  - first:
+      213: -821582887820759794
+    second: pictureManCell_51
+  - first:
+      213: 4813120471732440509
+    second: pictureManCell_52
+  - first:
+      213: 1917524999178786643
+    second: pictureManCell_53
+  - first:
+      213: -2381872340598670370
+    second: pictureManCell_54
+  - first:
+      213: 5451474694315788174
+    second: pictureManCell_55
+  - first:
+      213: -3320064939119169732
+    second: pictureManCell_56
+  - first:
+      213: 7866271493373511079
+    second: pictureManCell_57
+  - first:
+      213: -10444484485981872
+    second: pictureManCell_58
+  - first:
+      213: 4521255105047874559
+    second: pictureManCell_59
+  - first:
+      213: -1306094190981500351
+    second: pictureManCell_60
+  - first:
+      213: 8623337265208416174
+    second: pictureManCell_61
+  - first:
+      213: -3437681970433340682
+    second: pictureManCell_62
+  - first:
+      213: 1380950124508401285
+    second: pictureManCell_63
+  - first:
+      213: 330424680665616224
+    second: pictureManCell_64
+  - first:
+      213: 3115513175329438246
+    second: pictureManCell_65
+  - first:
+      213: -8642482343944206184
+    second: pictureManCell_66
+  - first:
+      213: 9075589888261829307
+    second: pictureManCell_67
+  - first:
+      213: 1241012297551729031
+    second: pictureManCell_68
+  - first:
+      213: 557527713289798448
+    second: pictureManCell_69
+  - first:
+      213: -2120068604307992760
+    second: pictureManCell_70
+  - first:
+      213: 935643103708694005
+    second: pictureManCell_71
+  - first:
+      213: 8087713485276367583
+    second: pictureManCell_72
+  - first:
+      213: 9157974420731815357
+    second: pictureManCell_73
+  - first:
+      213: -7637213195508840267
+    second: pictureManCell_74
+  - first:
+      213: 7341254054815625808
+    second: pictureManCell_75
+  - first:
+      213: 2352217803880581238
+    second: pictureManCell_76
+  - first:
+      213: 6597847488477636229
+    second: pictureManCell_77
+  - first:
+      213: 1223322916919159267
+    second: pictureManCell_78
+  - first:
+      213: -3469318516655650357
+    second: pictureManCell_79
+  - first:
+      213: 2398788559453304785
+    second: pictureManCell_80
+  - first:
+      213: 4776853865349575250
+    second: pictureManCell_81
+  - first:
+      213: -2195813258159988413
+    second: pictureManCell_82
+  - first:
+      213: -2968930264264314979
+    second: pictureManCell_83
+  - first:
+      213: -9149542331606704114
+    second: pictureManCell_84
+  - first:
+      213: -6464474254272382039
+    second: pictureManCell_85
+  - first:
+      213: -6363052613962343298
+    second: pictureManCell_86
+  - first:
+      213: 3511908251608933934
+    second: pictureManCell_87
+  - first:
+      213: -699473575217524364
+    second: pictureManCell_88
+  - first:
+      213: -2705679957918913844
+    second: pictureManCell_89
+  - first:
+      213: -4484334332707394514
+    second: pictureManCell_90
+  - first:
+      213: 443068559264726280
+    second: pictureManCell_91
+  - first:
+      213: -5779767022840522153
+    second: pictureManCell_92
+  - first:
+      213: 3262969678997888725
+    second: pictureManCell_93
+  - first:
+      213: -2927333880442338098
+    second: pictureManCell_94
+  - first:
+      213: 8164074063592017282
+    second: pictureManCell_95
+  - first:
+      213: -7295844174624692799
+    second: pictureManCell_96
+  - first:
+      213: 7005113956570575854
+    second: pictureManCell_97
+  - first:
+      213: 4610840792245764509
+    second: pictureManCell_98
+  - first:
+      213: -8029596509144115707
+    second: pictureManCell_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pictureManCell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a11c592380bcb0800000000000000
+      internalID: -4850232585016464977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67feef2e5cf32e0e0800000000000000
+      internalID: -2242159545327620234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9252ed0d938e20800000000000000
+      internalID: 3351695230650982324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de7e4119ceaa870800000000000000
+      internalID: 8695022138457320708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47faf15850b995e00800000000000000
+      internalID: 1034028037468827508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d5e8d4739897d30800000000000000
+      internalID: 4429722579112975727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074a797a01cdd6cf0800000000000000
+      internalID: -257307639600929680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152b01eca02a8480800000000000000
+      internalID: -8896262187034925800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef87f952050a2d0800000000000000
+      internalID: -3269525206951461180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113591a6d8601d6c0800000000000000
+      internalID: -4120504979627093231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde64d1f20deb790800000000000000
+      internalID: -7512338227634180645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b210370e85150c0800000000000000
+      internalID: -4588788824288449643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1045424bbfb2240800000000000000
+      internalID: 4768181381623972256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d33f42f82b076a0800000000000000
+      internalID: -6453461938151932568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c38e0be9a547d0800000000000000
+      internalID: -2934752755136085871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea9eefe1e561050800000000000000
+      internalID: 5770903459740626668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93e3e90c366fdb0800000000000000
+      internalID: -4758506277330601506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fdb9861b6b5f40800000000000000
+      internalID: 5718281896421357067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d42b9a1196957e0800000000000000
+      internalID: -1776273053438554805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1a090801932cf0800000000000000
+      internalID: -278219288269415421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4fe532408060b50800000000000000
+      internalID: 6558938721178023166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2afd58b9971d40800000000000000
+      internalID: 5555077682514504999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf27222599a1cc0800000000000000
+      internalID: -3739507962533446836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876346a4dbf381e0800000000000000
+      internalID: -2196635302485596275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictureManCell_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6a83b61a6025d0800000000000000
+      internalID: -3089352698642142086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

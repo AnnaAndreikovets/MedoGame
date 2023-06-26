@@ -1,0 +1,2 @@
+D:\Ann\DetectiveNew2\obj\Debug\InkEditor.csproj.AssemblyReference.cache
+D:\Ann\DetectiveNew2\obj\Debug\InkEditor.csproj.CoreCompileInputs.cache

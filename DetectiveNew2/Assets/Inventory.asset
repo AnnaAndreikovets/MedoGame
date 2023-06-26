@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430187f667434e34897bddfd9f2b71fb, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  myInventory:
+  - {fileID: 11400000, guid: 094fa4b40a84edc49acd20f3a075820c, type: 2}
+  - {fileID: 11400000, guid: a0c03cb5a57fbac48a920c08da4c7d4c, type: 2}
+  - {fileID: 11400000, guid: 354e25e57d97d724fb4d34b6bcb2dd84, type: 2}
+  - {fileID: 11400000, guid: c7f261614762ea34488b0fc52e30bfc8, type: 2}
+  - {fileID: 11400000, guid: 5932ae472e9b5a1489a25e662c42499f, type: 2}
+  - {fileID: 11400000, guid: 582ce5158a00a564e985ec82afd44621, type: 2}
+  myInventory2:
+  - {fileID: 11400000, guid: fd3a2c4ea7772fd48832e0001c4b4d53, type: 2}
+  - {fileID: 11400000, guid: 1f0be15301fc75f48b3b3ba4f7337175, type: 2}
+  myStars: []
+  ListForLoading: []
+  ValueOfSound:
+  - {fileID: 11400000, guid: eb7ae2b9f3eb00140bd5a8898f2d94b9, type: 2}
+  - {fileID: 11400000, guid: 396a9e7487c74f44e9ae6913d8a201fa, type: 2}
+  - {fileID: 11400000, guid: b773345bfd3c9aa4990353c9c095b99f, type: 2}
+  - {fileID: 11400000, guid: 3649694c82f8fc4449671b9efd0c7c4e, type: 2}
+  - {fileID: 11400000, guid: b1cbe522fb820f3458650b9944d0c4c2, type: 2}

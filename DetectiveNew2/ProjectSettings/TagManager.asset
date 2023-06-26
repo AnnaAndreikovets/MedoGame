@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Thing
+  - Player2
+  - pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 815001651
+    locked: 0
+  - name: Marcs
+    uniqueID: 2468959971
+    locked: 0
+  - name: NPCImages
+    uniqueID: 3618881625
+    locked: 0
+  - name: Player
+    uniqueID: 3550458915
+    locked: 0
+  - name: FG
+    uniqueID: 4059259471
+    locked: 0
+  - name: Effect
+    uniqueID: 3541512207
+    locked: 0
+  - name: Things
+    uniqueID: 940783301
+    locked: 0
+  - name: Buttons
+    uniqueID: 102838677
+    locked: 0
+  - name: Games
+    uniqueID: 21673581
+    locked: 0
+  - name: Dialogue
+    uniqueID: 869236479
+    locked: 0
+  - name: Shelfes
+    uniqueID: 2705568805
+    locked: 0
+  - name: Loading
+    uniqueID: 931218143
+    locked: 0
+  - name: Notifications
+    uniqueID: 2490705345
+    locked: 0

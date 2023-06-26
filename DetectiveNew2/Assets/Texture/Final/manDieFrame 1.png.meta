@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: 071689a3de198b04489c71e6df991e4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6093982757722332325
+    second: manDieFrame 1_0
+  - first:
+      213: -760447152314669445
+    second: manDieFrame 1_1
+  - first:
+      213: -3773907686449026029
+    second: manDieFrame 1_2
+  - first:
+      213: -7987256949615706178
+    second: manDieFrame 1_3
+  - first:
+      213: -1883869936482152790
+    second: manDieFrame 1_4
+  - first:
+      213: 6227948798826041007
+    second: manDieFrame 1_5
+  - first:
+      213: -5082621010314093528
+    second: manDieFrame 1_6
+  - first:
+      213: -1752382398797448155
+    second: manDieFrame 1_7
+  - first:
+      213: -3311737914192068837
+    second: manDieFrame 1_8
+  - first:
+      213: 1109706136860860856
+    second: manDieFrame 1_9
+  - first:
+      213: -6132132940830850729
+    second: manDieFrame 1_10
+  - first:
+      213: 8576231451970933523
+    second: manDieFrame 1_11
+  - first:
+      213: -7673208231641391605
+    second: manDieFrame 1_12
+  - first:
+      213: -5727439791396599687
+    second: manDieFrame 1_13
+  - first:
+      213: 5513691447088092544
+    second: manDieFrame 1_14
+  - first:
+      213: -3059716588614251321
+    second: manDieFrame 1_15
+  - first:
+      213: -988432963161708834
+    second: manDieFrame 1_16
+  - first:
+      213: 2371232790684611058
+    second: manDieFrame 1_17
+  - first:
+      213: -8063073628644747133
+    second: manDieFrame 1_18
+  - first:
+      213: 3433086469738006996
+    second: manDieFrame 1_19
+  - first:
+      213: 5501792217848725520
+    second: manDieFrame 1_20
+  - first:
+      213: -3120819035243805804
+    second: manDieFrame 1_21
+  - first:
+      213: -3622661834406261843
+    second: manDieFrame 1_22
+  - first:
+      213: 8689130879444073323
+    second: manDieFrame 1_23
+  - first:
+      213: 2626495488166220629
+    second: manDieFrame 1_24
+  - first:
+      213: 4911642042774058689
+    second: manDieFrame 1_25
+  - first:
+      213: -3642790991986123676
+    second: manDieFrame 1_26
+  - first:
+      213: 6321123082098536135
+    second: manDieFrame 1_27
+  - first:
+      213: -5918433952730488120
+    second: manDieFrame 1_28
+  - first:
+      213: -5801089103129332463
+    second: manDieFrame 1_29
+  - first:
+      213: 2366960436844188222
+    second: manDieFrame 1_30
+  - first:
+      213: -5482076877466865981
+    second: manDieFrame 1_31
+  - first:
+      213: -103766738277116466
+    second: manDieFrame 1_32
+  - first:
+      213: 4792915538293729469
+    second: manDieFrame 1_33
+  - first:
+      213: 1713937697160721625
+    second: manDieFrame 1_34
+  - first:
+      213: -8922283601383727106
+    second: manDieFrame 1_35
+  - first:
+      213: -8889226357487858640
+    second: manDieFrame 1_36
+  - first:
+      213: 8565907310576647618
+    second: manDieFrame 1_37
+  - first:
+      213: 5765010000828533221
+    second: manDieFrame 1_38
+  - first:
+      213: -2339022942832215241
+    second: manDieFrame 1_39
+  - first:
+      213: 7334987345357252992
+    second: manDieFrame 1_40
+  - first:
+      213: -6565146165871472092
+    second: manDieFrame 1_41
+  - first:
+      213: -2037619353772180293
+    second: manDieFrame 1_42
+  - first:
+      213: 5821560153535300185
+    second: manDieFrame 1_43
+  - first:
+      213: -5834938993323375936
+    second: manDieFrame 1_44
+  - first:
+      213: 2830594162327820341
+    second: manDieFrame 1_45
+  - first:
+      213: -6649532078576875010
+    second: manDieFrame 1_46
+  - first:
+      213: 7679136911615130215
+    second: manDieFrame 1_47
+  - first:
+      213: -7774125091121368420
+    second: manDieFrame 1_48
+  - first:
+      213: -6846209361504384754
+    second: manDieFrame 1_49
+  - first:
+      213: 392046138540706516
+    second: manDieFrame 1_50
+  - first:
+      213: -3174299020866057106
+    second: manDieFrame 1_51
+  - first:
+      213: -4725928914640942364
+    second: manDieFrame 1_52
+  - first:
+      213: -1461985193839416598
+    second: manDieFrame 1_53
+  - first:
+      213: -7732857630298203911
+    second: manDieFrame 1_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manDieFrame 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ea9a18f2dd6ba0800000000000000
+      internalID: -6093982757722332325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 324
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a3df08595275f0800000000000000
+      internalID: -760447152314669445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 324
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce61644f260abc0800000000000000
+      internalID: -3773907686449026029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 324
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb2646f10972190800000000000000
+      internalID: -7987256949615706178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 324
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae81f026462bd5e0800000000000000
+      internalID: -1883869936482152790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec8597f6e1e6650800000000000000
+      internalID: 6227948798826041007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 292
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9a48be17e679b0800000000000000
+      internalID: -5082621010314093528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 292
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf7092e794ea7e0800000000000000
+      internalID: -1752382398797448155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 292
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7363d9e75a02d0800000000000000
+      internalID: -3311737914192068837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 292
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1a9ac1ad7766f00800000000000000
+      internalID: 1109706136860860856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514e4a649946eaa0800000000000000
+      internalID: -6132132940830850729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 259
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31392461115e40770800000000000000
+      internalID: 8576231451970933523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 259
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e596984c9438590800000000000000
+      internalID: -7673208231641391605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9784e51eadb0480b0800000000000000
+      internalID: -5727439791396599687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 259
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0859bc88821948c40800000000000000
+      internalID: 5513691447088092544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc074649f3b985d0800000000000000
+      internalID: -3059716588614251321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 227
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a57af4716842f0800000000000000
+      internalID: -988432963161708834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 227
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1b388e8af48e020800000000000000
+      internalID: 2371232790684611058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 227
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3885fc631453a1090800000000000000
+      internalID: -8063073628644747133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 227
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d90fe774f5c4af20800000000000000
+      internalID: 3433086469738006996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c1e45fda4a5c40800000000000000
+      internalID: 5501792217848725520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 194
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493040c4f9f90b4d0800000000000000
+      internalID: -3120819035243805804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 194
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab89da5148b9bdc0800000000000000
+      internalID: -3622661834406261843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b34247f7ef59870800000000000000
+      internalID: 8689130879444073323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 194
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55350501bbf237420800000000000000
+      internalID: 2626495488166220629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6fb673a68a92440800000000000000
+      internalID: 4911642042774058689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 162
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9ca3a4e4327dc0800000000000000
+      internalID: -3642790991986123676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 162
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6102d3f329b750800000000000000
+      internalID: 6321123082098536135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c263ec5daf7ddda0800000000000000
+      internalID: -5918433952730488120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 162
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115369932346e7fa0800000000000000
+      internalID: -5801089103129332463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3250830af129d020800000000000000
+      internalID: 2366960436844188222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 129
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce643f0020cbe3b0800000000000000
+      internalID: -5482076877466865981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 129
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5dd7983b85f8ef0800000000000000
+      internalID: -103766738277116466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a272c94bd38240800000000000000
+      internalID: 4792915538293729469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 129
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47a66314129c710800000000000000
+      internalID: 1713937697160721625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effda3a365ead2480800000000000000
+      internalID: -8922283601383727106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 97
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c85e999bf13a480800000000000000
+      internalID: -8889226357487858640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb7d9905730e670800000000000000
+      internalID: 8565907310576647618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 97
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e985f92d0e610050800000000000000
+      internalID: 5765010000828533221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b3ff2b60f1a8fd0800000000000000
+      internalID: -2339022942832215241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0892100d02c1bc560800000000000000
+      internalID: 7334987345357252992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42296b4885ae3e4a0800000000000000
+      internalID: -6565146165871472092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb2f65efbe8b3e0800000000000000
+      internalID: -2037619353772180293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524a0e9d165ac050800000000000000
+      internalID: 5821560153535300185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c282e086e1260fa0800000000000000
+      internalID: -5834938993323375936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53818dcb46a484720800000000000000
+      internalID: 2830594162327820341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94cd52ecd18b3a0800000000000000
+      internalID: -6649532078576875010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af866d556c19a60800000000000000
+      internalID: 7679136911615130215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9272403b62cc1490800000000000000
+      internalID: -7774125091121368420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c395cbd06df0a0800000000000000
+      internalID: -6846209361504384754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4847c2e3d07500800000000000000
+      internalID: 392046138540706516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8862dbdf92f3d0800000000000000
+      internalID: -3174299020866057106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4411f0b02a6eb0800000000000000
+      internalID: -4725928914640942364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea225e463cf5bbe0800000000000000
+      internalID: -1461985193839416598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manDieFrame 1_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81867a4fe5fa490800000000000000
+      internalID: -7732857630298203911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

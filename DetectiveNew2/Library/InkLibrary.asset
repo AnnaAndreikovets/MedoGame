@@ -1,0 +1,559 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc234ab28a32840f5adfb84a075bc023, type: 3}
+  m_Name: Ink Library 1.0.0
+  m_EditorClassIdentifier: 
+  inkLibrary:
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 1460e815e969b43b8a83a7caa8b48c27, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 6cf48bb6d89824cc69e35b43f9a1aca6, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 21b31b147deb96743a5ffb850fab36cf, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 3405b9a7014abac408d8d358f6ae12cf, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 2816517723898dd4e821a36b2314d061, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: e1b0243e3b6093c4abb89f5b9cad7462, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: a1c0b183c8aeaec43a2302c5572f35a2, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 8379481b094dda34c9fc4fb69461ca9f, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: af06456b3acce21418208416f4d16fa1, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: a3458b2b05d146d4db5071091f182316, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: ad8655401c2f3044faba10517090181b, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: e822ece1b60ee6e49a1f520c080c4850, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: c27e4d5b111a2da4cbf503d0b0cc4643, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 20e19ee5cdd2b6d479942d05965fc90d, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: ceef2ace84b79bd49b96d3e5ae691654, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: bc039c0d6d874ee4c9bbea137392f0a3, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: d6a9d4a7ec30af34fad74e9edb80031b, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 29372f412a6dd9a4291a22b91756e7db, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 63c639d50031236419ac689b0918ac23, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 7d2a0026097d813409f3b8bc2b000b0f, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 3c1498bf6a7d00c459ceb988cbace663, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 34f06fa5872d2564f88cc0883d430203, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 75461dd977348a24a9b507b72ff3b5c8, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 49da6631ac3634942896eb0ac0d892e6, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 88dcb6c21e6c66241af95305952c8749, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 55d197826b0d2e740ae3fca1256457ad, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: a4bc3fec07427ed478a8b1a20de622d6, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 8809354cf4ddc174195ad60348312c61, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: f8f30ac45eb208840b4ba35926ebd9aa, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: d640bd010967e1d4bad48794c86db4c9, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: d9d44600359ce174587aef9812c948b2, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 768ebd78e3397bc4d866d5f315b6160f, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 765bc36df83600444bbbce3fe35e376f, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 41bee478043787e48888fd04212900e6, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 0}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents:
+    - {fileID: 102900000, guid: 2816517723898dd4e821a36b2314d061, type: 3}
+    - {fileID: 102900000, guid: a1c0b183c8aeaec43a2302c5572f35a2, type: 3}
+    - {fileID: 102900000, guid: af06456b3acce21418208416f4d16fa1, type: 3}
+    - {fileID: 102900000, guid: ad8655401c2f3044faba10517090181b, type: 3}
+    - {fileID: 102900000, guid: c27e4d5b111a2da4cbf503d0b0cc4643, type: 3}
+    - {fileID: 102900000, guid: ceef2ace84b79bd49b96d3e5ae691654, type: 3}
+    - {fileID: 102900000, guid: d6a9d4a7ec30af34fad74e9edb80031b, type: 3}
+    - {fileID: 102900000, guid: a4bc3fec07427ed478a8b1a20de622d6, type: 3}
+    - {fileID: 102900000, guid: f8f30ac45eb208840b4ba35926ebd9aa, type: 3}
+    - {fileID: 102900000, guid: d9d44600359ce174587aef9812c948b2, type: 3}
+    - {fileID: 102900000, guid: 0755aa44189897a47b852644c69708ae, type: 3}
+    - {fileID: 102900000, guid: 9da346a5f34fa47438ea8476c708b0ff, type: 3}
+    - {fileID: 102900000, guid: bfe59cff3597fe94ab774d9dea0a3a79, type: 3}
+    - {fileID: 102900000, guid: f0e8597e9282fec42a34b348e702e84c, type: 3}
+    - {fileID: 102900000, guid: 05e324b3be2f8de4aae101b78cebd685, type: 3}
+    - {fileID: 102900000, guid: 46ff8ee7221e0474ea61d0880bed0185, type: 3}
+    - {fileID: 102900000, guid: 0d6c81a3910037c4e86af4598b4c0788, type: 3}
+    - {fileID: 102900000, guid: 05648f81d941eef4b8e80430e910d5c1, type: 3}
+    - {fileID: 102900000, guid: 6dd4fd34e152a5d429fc4b2e2efdb9d9, type: 3}
+    - {fileID: 102900000, guid: 7eb49f5a33995b04b8a4da14fd1e0b22, type: 3}
+    - {fileID: 102900000, guid: dc9e128f71a013543b78adc6e37ff582, type: 3}
+    - {fileID: 102900000, guid: 889615c325b968f4391faeb11bc3b4ed, type: 3}
+    - {fileID: 102900000, guid: 09a025e182ec4f4489b99e5277508ab0, type: 3}
+    - {fileID: 102900000, guid: bb60e9dae6936c046990de444f796752, type: 3}
+    - {fileID: 102900000, guid: 5050146e90016224caed952fabada88b, type: 3}
+    - {fileID: 102900000, guid: d281d28a20b1bd44aa22824a00d36821, type: 3}
+    masterInkAssets:
+    - {fileID: 102900000, guid: 2816517723898dd4e821a36b2314d061, type: 3}
+    - {fileID: 102900000, guid: a1c0b183c8aeaec43a2302c5572f35a2, type: 3}
+    - {fileID: 102900000, guid: af06456b3acce21418208416f4d16fa1, type: 3}
+    - {fileID: 102900000, guid: ad8655401c2f3044faba10517090181b, type: 3}
+    - {fileID: 102900000, guid: c27e4d5b111a2da4cbf503d0b0cc4643, type: 3}
+    - {fileID: 102900000, guid: ceef2ace84b79bd49b96d3e5ae691654, type: 3}
+    - {fileID: 102900000, guid: d6a9d4a7ec30af34fad74e9edb80031b, type: 3}
+    - {fileID: 102900000, guid: a4bc3fec07427ed478a8b1a20de622d6, type: 3}
+    - {fileID: 102900000, guid: f8f30ac45eb208840b4ba35926ebd9aa, type: 3}
+    - {fileID: 102900000, guid: d9d44600359ce174587aef9812c948b2, type: 3}
+    - {fileID: 102900000, guid: 0755aa44189897a47b852644c69708ae, type: 3}
+    - {fileID: 102900000, guid: 9da346a5f34fa47438ea8476c708b0ff, type: 3}
+    - {fileID: 102900000, guid: bfe59cff3597fe94ab774d9dea0a3a79, type: 3}
+    - {fileID: 102900000, guid: f0e8597e9282fec42a34b348e702e84c, type: 3}
+    - {fileID: 102900000, guid: 05e324b3be2f8de4aae101b78cebd685, type: 3}
+    - {fileID: 102900000, guid: 46ff8ee7221e0474ea61d0880bed0185, type: 3}
+    - {fileID: 102900000, guid: 0d6c81a3910037c4e86af4598b4c0788, type: 3}
+    - {fileID: 102900000, guid: 05648f81d941eef4b8e80430e910d5c1, type: 3}
+    - {fileID: 102900000, guid: 6dd4fd34e152a5d429fc4b2e2efdb9d9, type: 3}
+    - {fileID: 102900000, guid: 7eb49f5a33995b04b8a4da14fd1e0b22, type: 3}
+    - {fileID: 102900000, guid: dc9e128f71a013543b78adc6e37ff582, type: 3}
+    - {fileID: 102900000, guid: 889615c325b968f4391faeb11bc3b4ed, type: 3}
+    - {fileID: 102900000, guid: 09a025e182ec4f4489b99e5277508ab0, type: 3}
+    - {fileID: 102900000, guid: bb60e9dae6936c046990de444f796752, type: 3}
+    - {fileID: 102900000, guid: 5050146e90016224caed952fabada88b, type: 3}
+    - {fileID: 102900000, guid: d281d28a20b1bd44aa22824a00d36821, type: 3}
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 0755aa44189897a47b852644c69708ae, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: b81073254527ecd47a167b7e28f521cf, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - 'globals.ink '
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 9da346a5f34fa47438ea8476c708b0ff, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 10071e236d5621a4093188e00708ced9, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: bfe59cff3597fe94ab774d9dea0a3a79, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 38ae3e79d46cecc4ab82d7079ea09fc5, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: f0e8597e9282fec42a34b348e702e84c, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: dab0346d7775a324e81fdc98b8e0c644, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 05e324b3be2f8de4aae101b78cebd685, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: a8acdf19369a3604fb67937d3e750c29, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 46ff8ee7221e0474ea61d0880bed0185, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 39806d18ffa46934bb09a8578d729e8f, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 0d6c81a3910037c4e86af4598b4c0788, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: bbe6dc0b01ceba34bafdee7622d61bbc, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 05648f81d941eef4b8e80430e910d5c1, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 556c52a100411df4a9535a70e60d446f, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: bd5ceb9bfb46d3e4b98a26195a076283, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 686c0e9ead648f14d8f91aea345eb125, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 6dd4fd34e152a5d429fc4b2e2efdb9d9, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: db89ce3ced7bd014b8348e350c714fe1, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 7eb49f5a33995b04b8a4da14fd1e0b22, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: b96cc07d3340c554295390deebb86f68, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: dc9e128f71a013543b78adc6e37ff582, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 0dc02b41f3dfba94994f8c7bfffe809a, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 889615c325b968f4391faeb11bc3b4ed, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 98522dc83c35cc44eb0c857dc49050fc, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 09a025e182ec4f4489b99e5277508ab0, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: a98abbcb2fdd0184cad7622fb326fba3, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: bb60e9dae6936c046990de444f796752, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 9b7933ddacab5d948ae1db152a031a2c, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 5050146e90016224caed952fabada88b, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 7e68ded8e717a3d4b8e5b9a0a440e493, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - globals.ink
+    includes:
+    - {fileID: 102900000, guid: 8b23f6d73a4360f4bb759444752360b6, type: 3}

@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1bd6603f3f14ab245876f7668974a9ba
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/Chamber.unity
+    guid: 6ff5f8f7fc22b774c8b75e0537614220
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/FrontSideOfTheHouse.unity
+    guid: c7ff980f50ece124691fb657c2ffc358
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/HouseFirstDay.unity
+    guid: 345921c789de0b447aa47c8c1f9062cc
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/RoomMH3.unity
+    guid: 19ae193dc826e97419a5361c9764857a
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/Room2.unity
+    guid: 234946743d889384cab404f1518558da
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/Room3(2).unity
+    guid: ebd84ef8669c65440b5de1fa90551aea
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/HouseSecondDay.unity
+    guid: 124d061a1bb8d4d4b97e4dfb2e8f8cd1
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/CorridorFloor2.unity
+    guid: 253ca3ad0b508d54598d82bdf9bd0776
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/ChamberD.unity
+    guid: cc716eee2bb58134fb3d1fdad59e6569
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/SPA.unity
+    guid: ceac48959d13b72438dc35749ff72beb
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/RecretionRoom.unity
+    guid: 66232cb30a52be545a5269974e67f524
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/Room1(2).unity
+    guid: 07c06c4a2f0616d4e9953ec8176e8874
+  - enabled: 1
+    path: Assets/Scenes/2SecondDay/Room3(2) 1.unity
+    guid: 1afa317a1776c0042bb61d3ab1ee8a19
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/HouseTrirdDay.unity
+    guid: 6cb2df9d5df57754d8cd4302d54d714f
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/Coridor2.1.unity
+    guid: 99d88d2d4eaae18439d913771d290639
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/Coridor2.3.unity
+    guid: beac0068da798824788f0576281fbfc8
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/boilerRoom.unity
+    guid: e95112054e3d6b7478b94e86a71ffc37
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/garden.unity
+    guid: 517ee2cf176419d49a85111b4d4050e1
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/ironingAndCleaningRoom.unity
+    guid: 7f646bfa4a9959f418c0d75efc0cd6a4
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/swimingPool.unity
+    guid: 8d446f25a49f3434085d6a3121fd9c2e
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/Room3(3).unity
+    guid: 6cbaa72bb5eb51c47a20178c239f90fd
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/Room4(3).unity
+    guid: 740c7741d4c79e845915f35e5ced03e4
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/garden2.unity
+    guid: 59776783208891a42a60884c6c63799e
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/Matches.unity
+    guid: c08d4280d7bc8e547afbae05e2689ab7
+  - enabled: 1
+    path: Assets/Scenes/3ThirdDay/garden3.unity
+    guid: 003301f49bd871d46852ece6ddfba452
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Room3(4).unity
+    guid: db25c89d30d583b418cd0c157f49d085
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/HouseFourthDay.unity
+    guid: 23430a716ad4c414387532a442c1d674
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Room6.unity
+    guid: 15573ebdfa4e3d9478f065e6b407a7fa
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Coridor2.3(4).unity
+    guid: fa42649f963383a49bf9c3641b73054c
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/ironingAndCleaningRoom(4).unity
+    guid: dc19120f357fc44429113a2b1b52a275
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Coridor2.1(4).unity
+    guid: 1856c2cbcf336a74597d84cb229a3e2c
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Room8.unity
+    guid: be98838bcc7369649b8c4ab363d78288
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Room5.unity
+    guid: 94478ffe837323f43bc06bc53b847359
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/Coridor2.2.unity
+    guid: 5bc2557b9a7d20f47bff711c707ef6d3
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/WineCellar.unity
+    guid: 7ae521a305bd6d74b9ca34c436ad3f5f
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/Maze.unity
+    guid: 88adf979394e961488de658035c713be
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/Dots.unity
+    guid: 9d6ef8621e3e1774eae38ceeb3a065ed
+  - enabled: 1
+    path: Assets/Scenes/1FirstDay/Information.unity
+    guid: 36034dda4bc76e6488e50f07e3c24c18
+  - enabled: 1
+    path: Assets/Scenes/Subtitles.unity
+    guid: 851e1f2e42387674dad4d177ba150bba
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/corridoLast.unity
+    guid: 60ce680c2c340b241a52cfe1b43cada3
+  - enabled: 1
+    path: Assets/Scenes/4FourthDay/ChamberLast.unity
+    guid: 20288b9059adf004181b1da7af085e52
+  m_configObjects: {}
