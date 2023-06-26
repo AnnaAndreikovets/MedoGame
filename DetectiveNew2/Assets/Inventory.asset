@@ -12,16 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 430187f667434e34897bddfd9f2b71fb, type: 3}
   m_Name: Inventory
   m_EditorClassIdentifier: 
-  myInventory:
-  - {fileID: 11400000, guid: 094fa4b40a84edc49acd20f3a075820c, type: 2}
-  - {fileID: 11400000, guid: a0c03cb5a57fbac48a920c08da4c7d4c, type: 2}
-  - {fileID: 11400000, guid: 354e25e57d97d724fb4d34b6bcb2dd84, type: 2}
-  - {fileID: 11400000, guid: c7f261614762ea34488b0fc52e30bfc8, type: 2}
-  - {fileID: 11400000, guid: 5932ae472e9b5a1489a25e662c42499f, type: 2}
-  - {fileID: 11400000, guid: 582ce5158a00a564e985ec82afd44621, type: 2}
-  myInventory2:
-  - {fileID: 11400000, guid: fd3a2c4ea7772fd48832e0001c4b4d53, type: 2}
-  - {fileID: 11400000, guid: 1f0be15301fc75f48b3b3ba4f7337175, type: 2}
+  myInventory: []
+  myInventory2: []
   myStars: []
   ListForLoading: []
   ValueOfSound:
